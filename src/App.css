@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.news_wrap {width:90%; margin:0 auto;}
+.news_title {font-size:18px; font-weight:600; color:#555;}
+.news_date {font-size:14px; }
+.news_contents {}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
